@@ -1,4 +1,4 @@
-<h1 align="center">Wassup? 👋, I'm Hrafn-07</h1>
+<h1 align="center">Wassup? 👋, I'm Kadir a.k.a Hrafn-07</h1>
 <h3 align="center">A passionate fullstack developer and Linux Lover</h3>
 
 <h3 align="left">Connect with me:</h3>
