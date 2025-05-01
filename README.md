@@ -88,9 +88,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hrafn-07/hrafn-07/output/snake.svg" alt="Snake animation" />
-
-###
