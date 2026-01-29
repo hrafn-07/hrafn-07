@@ -1,10 +1,11 @@
+<h1>Hi there, I'm hrafn-07 🐧</h1>
+
 <table border="0">
 <tr>
 <td width="75%" align="left" valign="top">
-<h1>Hi there, I'm hrafn-07 🐧</h1>
 <p><strong>Developer | DevOps Specialist | Linux Supporter</strong></p>
 <p>I build scalable applications and advocate for open-source solutions.</p>
-<h3>🚀 Tech Stack</h3>
+<h3>Tech Stack:</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c" />&nbsp;
